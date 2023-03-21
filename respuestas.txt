@@ -1,0 +1,6 @@
+¿Que es GIT?: Es un entorno donde podemos trabajar con el equipo de traabajo de forma simultanea subiendo trabajos
+¿Que es un pull Request?: son los cambios que un desarrollador hace en una rama secundaria, y luego con la acción la fucionamos con la rama principal para generar los cambios en la rama central
+¿Que es un commit?: Es una acción que realiza el desarrollador para guardar los cambios en su respositorio
+¿GIT y GitHub es lo mismo?: GIT es la herramienta de trabajo que utilizan los desarolladores, mientras que GITHub es una herramienta web
+¿Qué es scrum?: Es un marco para la gestión de proyectos de software que se enfoca en la entrega rápida y flexible para entregar productos de calidad. 
+¿Para qué sirve una metodología ágil de desarrollo?: sirve para ayudar a los equipos de desarrollo para ser ágiles y flexibles con el cliente para entregar el producto deseado o de mejor calidad posible
